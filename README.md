@@ -1,8 +1,8 @@
-# Medice Test ANOVA in R
+# Medicine ANOVA Test in R
 Medicine effect with analysis of variance ANOVA in R
 
-[Script](https://github.com/Caio-Felice-Cunha/Medice-Test-ANOVA-in-R/blob/main/Drug%20effect%20with%20ANOVA%20test%20in%20R.R) <br>
-[The report](https://github.com/Caio-Felice-Cunha/Medice-Test-ANOVA-in-R/blob/main/Drug-effect-with-ANOVA-test-in-R.pdf)
+[Script](https://github.com/Caio-Felice-Cunha/Medicine-ANOVA-Test-in-R/blob/main/Drug%20effect%20with%20ANOVA%20test%20in%20R.R) <br>
+[The report](https://github.com/Caio-Felice-Cunha/Medicine-ANOVA-Test-in-R/blob/main/Drug-effect-with-ANOVA-test-in-R.pdf)
 
 ![image](https://user-images.githubusercontent.com/111542025/236542366-7c9824d8-7f76-473e-8f23-88646148d1f7.png)
 
